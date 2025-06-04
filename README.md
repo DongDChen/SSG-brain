@@ -19,4 +19,4 @@ rdkit
 torch_geometric
 ```
 
-We will further release the complete version as the completion of the journal version.
+
